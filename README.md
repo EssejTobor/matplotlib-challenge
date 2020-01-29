@@ -34,3 +34,5 @@ See figure 3:
 
 Capomulin was the only treatment to show tumor volume reduction over the 45-day treatment ss evidenced by figure 4:
 ![See figure 4:](Figures/4_Tumor_Change.png)
+
+In Conclusion it is recomended to move forward with Capomulin. 
